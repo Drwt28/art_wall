@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "440152656048",
+    "firebase_url": "https://art-wall-cafc0.firebaseio.com",
+    "project_id": "art-wall-cafc0",
+    "storage_bucket": "art-wall-cafc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440152656048:android:bab95b618804e9fee89375",
+        "android_client_info": {
+          "package_name": "com.rawat.art.wall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440152656048-7kte4853e0fp17k6qgl4pblmhqc0rrqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_LJ7x_dvKI22sjveVcmCb7wqPr2xv9XA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440152656048-7kte4853e0fp17k6qgl4pblmhqc0rrqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
